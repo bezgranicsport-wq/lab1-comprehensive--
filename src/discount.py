@@ -1,4 +1,2 @@
-import os  # неиспользуемый импорт
-
 def calculate_discount(price):
-    return price * 0.9  # эта строка намеренно длиннее 80 символов: добавляем комментарий для проверки линтера
+    return price * 0.9
